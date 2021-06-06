@@ -2,7 +2,6 @@ package com.map;
 
 import java.sql.Struct;
 import java.util.*;
-
 public class MainMap {
     public static void main(String[] args) {
         //System.out.println("hello java");
